@@ -1,0 +1,13 @@
+*.csv
+*.xlsx
+*.xlsm
+*.html
+*.htm
+igdb_cache.json
+unmatched_trophies.txt
+.env
+.venv/
+__pycache__/
+*.pyc
+# Uncomment if you add dummy sample CSVs later:
+# !sample/*.csv
